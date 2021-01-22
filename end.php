@@ -1,0 +1,1 @@
+<?php echo 'The file is protected by copyright.'; ?>
