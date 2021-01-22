@@ -23,9 +23,9 @@
     <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
       <header class="masthead mb-auto">
         <div class="inner">
-          <h3 class="masthead-brand">Cover</h3>
+          <h3 class="masthead-brand">Mostafa Elbagory</h3>
           <nav class="nav nav-masthead justify-content-center">
-            <a class="nav-link active" href="">Github</a>
+            <a class="nav-link active" href="https://github.com/code-root/copyright-video-PHP">Github</a>
             <a class="nav-link" href="https://www.instagram.com/um6/">Instagram</a>
             <a class="nav-link" href="https://api.whatsapp.com/send/?phone=201001995914&text&app_absent=0">whatsapp</a>
           </nav>
